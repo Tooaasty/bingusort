@@ -22,7 +22,8 @@ dataSet[dataSetVersion].options = [
 	  { name: "BFDI Mini characters", key: "m1" },
 	  { name: "BFDI Mini Again characters", key: "m2" },
 	  { name: "BFDI Mini Deluxe characters", key: "m3" },
-	  { name: "Algebraliens", key: "num" }
+	  { name: "Algebraliens", key: "num" },
+	  { name: "Speaker Boxes", key: "sb" }
     ]
   }
 ];
@@ -1039,28 +1040,28 @@ dataSet[dataSetVersion].characterData = [
     name: "Announcer",
     img: "jFsT02i.png",
     opts: {
-      stage: ["host", "s1", "s4b"]
+      stage: ["host", "s1", "s4b", "sb"]
     }
   },
   {
     name: "Flower Speaker Box",
     img: "Mlz0zEz.png",
     opts: {
-      stage: ["host", "s1"]
+      stage: ["host", "s1", "sb"]
     }
   },
   {
     name: "Firey Speaker Box",
     img: "o9Sb8Rm.png",
     opts: {
-      stage: ["host", "s1", "s2"]
+      stage: ["host", "s1", "s2", "sb"]
     }
   },
   {
     name: "Puffball Speaker Box",
     img: "aCjSlbG.png",
     opts: {
-      stage: ["host", "s2"]
+      stage: ["host", "s2", "sb"]
     }
   },
   {
@@ -1119,5 +1120,129 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       stage: ["num"]
     }
+  },
+  
+  {
+    name: "Zero",
+    img: "TbSRo79.png",
+    opts: {
+      stage: ["num"]
+    }
+  },
+  {
+    name: "One",
+    img: "epG5oAw.png",
+    opts: {
+      stage: ["num"]
+    }
+  },
+  {
+    name: "Three",
+    img: "U36mGyj.png",
+    opts: {
+      stage: ["num"]
+    }
+  },
+  {
+    name: "Five",
+    img: "hL78JEw.png",
+    opts: {
+      stage: ["num"]
+    }
+  },
+  
+  
+  {
+    name: "CRT",
+    img: "rtmWH1m.png",
+    opts: {
+      stage: ["ex"]
+    }
+  },
+  {
+    name: "Bugs",
+    img: "ET3AWic.png",
+    opts: {
+      stage: ["ex"]
+    }
+  },
+  {
+    name: "Fish Monster",
+    img: "UCSZTbQ.png",
+    opts: {
+      stage: ["ex"]
+    }
+  },
+  
+  
+  
+  
+  
+  {
+    name: "Firey Speaker Box's Clone",
+    img: "Jw5P3hG.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  {
+    name: "Triangle Speaker Box",
+    img: "l6lrQRy.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  {
+    name: "Hexagon Speaker Box",
+    img: "iUNek24.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  {
+    name: "Circular Flying Speaker Box",
+    img: "5fOMJMC.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  {
+    name: "Speaker Box that throws spike balls uncontrollably",
+    img: "pXx8JbV.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  {
+    name: "Leafy Speaker Box",
+    img: "KRKFZ4Z.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  {
+    name: "Teardrop Speaker Box",
+    img: "sdSSbko.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  {
+    name: "The Cheese Orb",
+    img: "IIKMP0f.png",
+    opts: {
+      stage: ["sb"]
+    }
+  },
+  
+  
+  {
+    name: "a",
+    img: "Fdo7UgB.png",
+    opts: {
+      stage: ["ex", "num"]
+    }
   }
+  
+  
 ];
