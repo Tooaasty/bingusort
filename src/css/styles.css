@@ -114,14 +114,14 @@ body {
   width: 120px;
   height: 180px;
   margin: auto;
+  overflow: clip;
   grid-row: 1 / 7;
   cursor: pointer;
 }
 
 .sorter > .text {
-  width: 180px;
+  width: 120px;
   height: 60px;
-  margin-right: 60px;
   display: none;
 }
 
