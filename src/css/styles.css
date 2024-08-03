@@ -133,6 +133,7 @@ body {
 }
 
 .sorter > .left {
+  margin-right: 60px
   grid-column: 1 / 2;
   border: 1px solid #000000;
 }
