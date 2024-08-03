@@ -111,16 +111,15 @@ body {
 }
 
 .sorter > .image {
-  width: 120px;
+  width: 180px;
   height: 180px;
   margin: auto;
-  overflow: clip;
   grid-row: 1 / 7;
   cursor: pointer;
 }
 
 .sorter > .text {
-  width: 120px;
+  width: 180px;
   height: 60px;
   display: none;
 }
