@@ -84,21 +84,21 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Capsule",
-    img: "https://i.imgur.com/GxGptlG.png",
+    img: "GxGptlG.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Cat Tower",
-    img: "https://i.imgur.com/0dGBwfx.png",
+    img: "0dGBwfx.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Chatty",
-    img: "https://i.imgur.com/0PmpZbR.png",
+    img: "0PmpZbR.png",
     opts: {
       series: ["bfss"]
     }
