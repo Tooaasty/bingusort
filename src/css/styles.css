@@ -114,7 +114,7 @@ body {
   width: 120px;
   height: 180px;
   margin: auto;
-  overflow: hidden;
+  overflow: clip;
   grid-row: 1 / 7;
   cursor: pointer;
 }
