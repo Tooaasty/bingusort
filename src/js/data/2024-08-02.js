@@ -42,476 +42,476 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baggy",
-    img: "SrEm2Hs.png",
+    img: "l4TYk2F.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Ball",
-    img: "JoNy1Cs.png",
+    img: "GIcTvu1.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Beanstalk",
-    img: "dOzeQ8Q.png",
+    img: "4oQuOxU.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Bee",
-    img: "RepqYXM.png",
+    img: "ZAiqznS.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Beehive",
-    img: "YffK4Ex.png",
+    img: "51DsOJQ.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Bready",
-    img: "6BftVIQ.png",
+    img: "TERnBLv.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Capsule",
-    img: "CaFK3WY.png",
+    img: "https://i.imgur.com/GxGptlG.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Cat Tower",
-    img: "eVvHQJb.png",
+    img: "https://i.imgur.com/0dGBwfx.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Chatty",
-    img: "Fy1rm5U.png",
+    img: "https://i.imgur.com/0PmpZbR.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Coffee Pot",
-    img: "v67Xy96.png",
+    img: "CDnUluk.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Comet",
-    img: "smAsT05.png",
+    img: "jy1x1pX.png",
     opts: {
       series: ["cc"]
     }
   },
   {
     name: "Connie",
-    img: "eJ2iaR1.png",
+    img: "rscE908.png",
     opts: {
       series: ["cc"]
     }
   },
   {
     name: "Domino",
-    img: "jBb1qII.png",
+    img: "Mm1D3tx.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Dude",
-    img: "HXt1He6.png",
+    img: "s0vo9oS.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Dyno",
-    img: "yoFG4K1.png",
+    img: "9SUQXH8.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Error",
-    img: "Yvxkhdv.png",
+    img: "DVnbyC3.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Existy",
-    img: "VilUCx8.png",
+    img: "KIBLbrM.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Faily",
-    img: "ITqGh7P.png",
+    img: "PYUwbZc.png",
     opts: {
       series: ["oaw"]
     }
   }, 
   {
     name: "Fart in a Jar",
-    img: "xjkNST6.png",
+    img: "qaaZT8c.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Flour",
-    img: "OYnwKJh.png",
+    img: "qeKNwN7.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Folder",
-    img: "zEucJPS.png",
+    img: "d7A4iKo.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Freshly Cut Grass",
-    img: "AkshIum.png",
+    img: "ChY6hcC.png",
     opts: {
       series: ["bx"]
     }
   },
   {
     name: "Friend",
-    img: "9vKnFhl.png",
+    img: "BCEjwLg.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Glue Stick",
-    img: "UjPemOe.png",
+    img: "UEYnvfL.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Googly Eye",
-    img: "XukNkLz.png",
+    img: "fgAjD8v.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Graham Cracker",
-    img: "bCluY9S.png",
+    img: "GK3v0O2.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Guacamole",
-    img: "HdP4zkK.png",
+    img: "wukfyU0.png",
     opts: {
       series: ["m"]
     }
   },  
   {
     name: "Half-Popped Popcorn",
-    img: "2ck1ErG.png",
+    img: "A7SH70v.png",
     opts: {
       series: ["bfss"]
     }
   }, 
   {
     name: "Hanging Lamp",
-    img: "hakbh0n.png",
+    img: "2MVTTRi.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Impostory Jr.",
-    img: "J2kwVq7.png",
+    img: "R7Iwr1Z.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Ladle",
-    img: "tPNlY2Z.png",
+    img: "XdyATx7.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Last Minute",
-    img: "BxvCO1X.png",
+    img: "M3muSNn.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Lava Lamp",
-    img: "SzKsNEc.png",
+    img: "l3gYtKu.png",
     opts: {
       series: ["m"]
     }
   },
     {
     name: "Lemon-Lime",
-    img: "JeifHzx.png",
+    img: "tKcShma.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Line",
-    img: "LpXC8d7.png",
+    img: "a3HK4lu.png",
     opts: {
       series: ["cc"]
     }
   },
   {
     name: "Long",
-    img: "SFNQyls.png",
+    img: "VNxnI4X.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Lucky Charm",
-    img: "5I6Xliq.png",
+    img: "XRION0I.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Marble",
-    img: "bMydI5D.png",
+    img: "RR6XKXN.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Marinara Sauce",
-    img: "Tbb2xlb.png",
+    img: "odCFIZ4.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Mattress",
-    img: "eDpbcO0.png",
+    img: "Vml2ZRN.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Microwave",
-    img: "Ap26zYd.png",
+    img: "3N6F5YH.png",
     opts: {
       series: ["bx"]
     }
   },
   {
     name: "Mini Fridge",
-    img: "cj9WhQq.png",
+    img: "PkbscDo.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Mint Chocolate",
-    img: "ldyKiFx.png",
+    img: "ZrO03O5.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Mobile Game",
-    img: "Jfntxyn.png",
+    img: "nkkTIxT.png",
     opts: {
       series: ["bx"]
     }
   },
   {
     name: "Mustache",
-    img: "xCg4UZZ.png",
+    img: "Q9N7R9V.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Noob Head",
-    img: "0dcrJwv.png",
+    img: "8pIo90z.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "North",
-    img: "yGz5FM8.png",
+    img: "Z9yQtBO.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Orangey",
-    img: "4zmzDor.png",
+    img: "QDfMnhm.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Pyramid Steve",
-    img: "Z2ddD8z.png",
+    img: "b6ZhRNT.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Roasty",
-    img: "KdblhqN.png",
+    img: "8lMqRnN.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Shelmet",
-    img: "6KE1v9S.png",
+    img: "A5fG3Ql.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Shifty",
-    img: "lDD7vK2.png",
+    img: "d4qwydB.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Short",
-    img: "te2wMrY.png",
+    img: "SZufJLk.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Size 5 Brush Point",
-    img: "jkNFuSL.png",
+    img: "sFRHbgZ.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Sketchy",
-    img: "uKTPAdM.png",
+    img: "7SSdDKX.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Slide Whistle",
-    img: "6MEj1a9.png",
+    img: "2Okl812.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "South",
-    img: "TUH8zqD.png",
+    img: "JJAxsrt.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Spoon",
-    img: "DyKSixB.png",
+    img: "WszqUbY.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Sticky",
-    img: "HzMGON5.png",
+    img: "RwmSWvy.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Syrup",
-    img: "3679zou.png",
+    img: "hhXaKrN.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Thread",
-    img: "O5kMLqX.png",
+    img: "V8LISKX.png",
     opts: {
       series: ["bx"]
     }
   },
   {
     name: "Triangle",
-    img: "YqpLbXp.png",
+    img: "zVicV2M.png",
     opts: {
       series: ["oaw"]
     }
   },
   {
     name: "Tumbleweed",
-    img: "H6B62xY.png",
+    img: "q8Di4F0.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Vending Machine",
-    img: "f87BF9c.png",
+    img: "fpG6PYA.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Waffle",
-    img: "YXq2IZc.png",
+    img: "ohQoRHa.png",
     opts: {
       series: ["m"]
     }
   },
   {
     name: "Wet Floor Sign",
-    img: "xkYnWbJ.png",
+    img: "dNUbWzQ.png",
     opts: {
       series: ["bfss"]
     }
   },
   {
     name: "Winrar",
-    img: "Wc8u7dp.png",
+    img: "qxAsHwO.png",
     opts: {
       series: ["b"]
     }
   },
   {
     name: "Yield Sign",
-    img: "SNjOb3r.png",
+    img: "7IWeaeB.png",
     opts: {
       series: ["bfss"]
     }
